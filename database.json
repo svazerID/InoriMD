@@ -1,0 +1,1087 @@
+{
+  "users": {
+    "110969237823648@lid": {
+      "registered": false,
+      "role": "Free user",
+      "exp": 0,
+      "limit": 25,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "vip": false
+    },
+    "6283129667247@s.whatsapp.net": {
+      "registered": true,
+      "role": "Free user",
+      "exp": 1.00009999999999e+21,
+      "limit": 1000,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "name": "alpi",
+      "age": 21,
+      "regTime": 1757750610512,
+      "vip": false,
+      "money": 99999999,
+      "level": 100000000000000000,
+      "bank": 0
+    },
+    "62895615063060@s.whatsapp.net": {
+      "registered": true,
+      "role": "Free user",
+      "exp": 128325,
+      "limit": 83,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "name": "alpik",
+      "age": 21,
+      "regTime": 1757749968244,
+      "vip": false,
+      "pc": 1757940514887,
+      "money": 15000,
+      "pelabuhanLastBermain": 1757870669407,
+      "pelabuhanLevel": 1,
+      "pelabuhanMaxPenumpang": 10,
+      "pelabuhanSaldo": 175,
+      "pelabuhanPendapatanPerPenumpang": 5,
+      "pelabuhanJumlahPenumpang": 5,
+      "pelabuhanBiayaUpgrade": 50,
+      "pelabuhanCooldown": 1
+    },
+    "70751650615380@lid": {
+      "registered": false,
+      "role": "Free user",
+      "exp": 0,
+      "limit": 25,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "vip": false
+    },
+    "6282315469512@s.whatsapp.net": {
+      "registered": false,
+      "role": "Free user",
+      "exp": 9,
+      "limit": 25,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false
+    }
+  },
+  "chats": {
+    "120363217994871358@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "hei *@user* 👋 welcome to *@subject* \n\nDon t forget read desc @desc",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "simi": false,
+      "expired": 0,
+      "autoSticker": false,
+      "premium": false,
+      "premiumTime": false,
+      "premnsfw": false,
+      "antiToxic": false,
+      "listStr": {},
+      "pembatasan": false,
+      "antiSticker": false,
+      "antiLinkWa": false,
+      "antiVirtex": false,
+      "antiBadword": false,
+      "nsfw": false,
+      "antiPorn": false,
+      "autoTranslate": false,
+      "mute": false,
+      "rpg": true,
+      "game": true,
+      "teks": false,
+      "autolevelup": false,
+      "memgc": {},
+      "autogpt": false,
+      "autohd": false,
+      "autosticker": false,
+      "antitagsw": true
+    },
+    "62895615063060@s.whatsapp.net": {},
+    "6283129667247@s.whatsapp.net": {},
+    "120363207315318741@g.us": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": false,
+      "sWelcome": "hai @⁨user 👋 Welcome to @subject\n\njangan lupa baca deskripsi \n@desc",
+      "sBye": "goodbye @user see u nextstaim",
+      "sPromote": "",
+      "sDemote": "",
+      "catatan": "",
+      "ultah": "",
+      "pasangan": "",
+      "listStr": {},
+      "delete": true,
+      "antiLink": false,
+      "pembatasan": false,
+      "antiLinkWa": false,
+      "antiSticker": false,
+      "viewonce": false,
+      "antiToxic": false,
+      "antiVirtex": false,
+      "antiBadword": false,
+      "simi": false,
+      "nsfw": false,
+      "antiPorn": false,
+      "autoTranslate": false,
+      "mute": false,
+      "rpg": true,
+      "game": true,
+      "teks": true,
+      "autolevelup": false,
+      "expired": 0,
+      "memgc": {}
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 47,
+      "success": 46,
+      "last": 1757945855025,
+      "lastSuccess": 1757945855025
+    },
+    "main-register.js": {
+      "total": 6,
+      "success": 3,
+      "last": 1757911425440,
+      "lastSuccess": 1757750610513
+    },
+    "owner-sf.js": {
+      "total": 95,
+      "success": 91,
+      "last": 1757951910778,
+      "lastSuccess": 1757951910778
+    },
+    "sticker-sticker.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1757805712364,
+      "lastSuccess": 1757805712364
+    },
+    "owner-exec.js": {
+      "total": 24,
+      "success": 24,
+      "last": 1757943266348,
+      "lastSuccess": 1757943266348
+    },
+    "speed.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1757899297401,
+      "lastSuccess": 1757899297401
+    },
+    "group-hidetag.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1757889530474,
+      "lastSuccess": 1757889530474
+    },
+    "youtube-play.js": {
+      "total": 5,
+      "success": 3,
+      "last": 1757877586242,
+      "lastSuccess": 1757877586242
+    },
+    "image-pinterest.js": {
+      "total": 9,
+      "success": 7,
+      "last": 1757790529909,
+      "lastSuccess": 1757790529909
+    },
+    "youtube-yta.js": {
+      "total": 4,
+      "success": 0,
+      "last": 1757771320294,
+      "lastSuccess": 0
+    },
+    "owner-backupsc.js": {
+      "total": 48,
+      "success": 45,
+      "last": 1757951948380,
+      "lastSuccess": 1757951948380
+    },
+    "stalk-genshin.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757775119545,
+      "lastSuccess": 1757775119545
+    },
+    "ai-openai.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1757813602835,
+      "lastSuccess": 1757813602835
+    },
+    "owner-grep.js": {
+      "total": 19,
+      "success": 19,
+      "last": 1757944006253,
+      "lastSuccess": 1757944006253
+    },
+    "sticker-brat.js": {
+      "total": 11,
+      "success": 11,
+      "last": 1757951473267,
+      "lastSuccess": 1757951473267
+    },
+    "ai-hd.js": {
+      "total": 11,
+      "success": 11,
+      "last": 1757801100175,
+      "lastSuccess": 1757801100175
+    },
+    "tool-uploader.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1757807755792,
+      "lastSuccess": 1757807755792
+    },
+    "tools-convertcode.js": {
+      "total": 22,
+      "success": 19,
+      "last": 1757905217826,
+      "lastSuccess": 1757905217826
+    },
+    "ai-chatai.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1757862380105,
+      "lastSuccess": 1757862380105
+    },
+    "ai-alfixd.js": {
+      "total": 13,
+      "success": 13,
+      "last": 1757950432874,
+      "lastSuccess": 1757950432874
+    },
+    "owner-df.js": {
+      "total": 18,
+      "success": 18,
+      "last": 1757950781254,
+      "lastSuccess": 1757950781254
+    },
+    "owner-sp.js": {
+      "total": 92,
+      "success": 89,
+      "last": 1757907191421,
+      "lastSuccess": 1757907191421
+    },
+    "internet-fetch.js": {
+      "total": 13,
+      "success": 13,
+      "last": 1757950909275,
+      "lastSuccess": 1757950909275
+    },
+    "ai-autoai.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1757784326348,
+      "lastSuccess": 1757784326348
+    },
+    "creator.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1757910995769,
+      "lastSuccess": 1757910995769
+    },
+    "internet-ppcp.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757784036799,
+      "lastSuccess": 1757784036799
+    },
+    "stalk-twitter.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757784071816,
+      "lastSuccess": 1757784071816
+    },
+    "stalk-wa.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757784103874,
+      "lastSuccess": 1757784103874
+    },
+    "main-profile.js": {
+      "total": 6,
+      "success": 2,
+      "last": 1757795642831,
+      "lastSuccess": 1757795642831
+    },
+    "owner-exec2.js": {
+      "total": 13,
+      "success": 13,
+      "last": 1757950628954,
+      "lastSuccess": 1757950628954
+    },
+    "enable.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1757900431387,
+      "lastSuccess": 1757900431387
+    },
+    "tool-readviewonce.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757786521347,
+      "lastSuccess": 1757786521347
+    },
+    "memfess.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757786854897,
+      "lastSuccess": 1757786854897
+    },
+    "tools-enable.js": {
+      "total": 17,
+      "success": 9,
+      "last": 1757876289598,
+      "lastSuccess": 1757876289598
+    },
+    "_autohd.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757790045703,
+      "lastSuccess": 1757790045703
+    },
+    "downloader-pinterest.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757791349658,
+      "lastSuccess": 1757791349658
+    },
+    "downloader-tiktok.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757791701127,
+      "lastSuccess": 1757791701127
+    },
+    "_main-cyber.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757813478750,
+      "lastSuccess": 1757813478750
+    },
+    "_autosticker.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1757793403926,
+      "lastSuccess": 1757793403926
+    },
+    "info-totalhits.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757793514989,
+      "lastSuccess": 1757793514989
+    },
+    "main-limit.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1757866073237,
+      "lastSuccess": 1757866073237
+    },
+    "group-antitagsw.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757793773990,
+      "lastSuccess": 1757793773990
+    },
+    "tools-sendquote.js": {
+      "total": 4,
+      "success": 1,
+      "last": 1757794121993,
+      "lastSuccess": 1757794121993
+    },
+    "main-afk.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757794423289,
+      "lastSuccess": 1757794423289
+    },
+    "info-totalfitur.js": {
+      "total": 14,
+      "success": 14,
+      "last": 1757942504818,
+      "lastSuccess": 1757942504818
+    },
+    "store-addmsg.js": {
+      "total": 4,
+      "success": 1,
+      "last": 1757795009978,
+      "lastSuccess": 1757795009978
+    },
+    "store-listmsg.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757795037249,
+      "lastSuccess": 1757795037249
+    },
+    "tools-searchfitur.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757809865633,
+      "lastSuccess": 1757809865633
+    },
+    "owner-cheat.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757795633842,
+      "lastSuccess": 1757795633842
+    },
+    "donasi.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757900568863,
+      "lastSuccess": 1757900568863
+    },
+    "group-kick.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757899641427,
+      "lastSuccess": 1757899641427
+    },
+    "group-simulate.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1757899780371,
+      "lastSuccess": 1757899780371
+    },
+    "group-setwelcome.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1757899766438,
+      "lastSuccess": 1757899766438
+    },
+    "internet-npm.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757799665414,
+      "lastSuccess": 1757799665414
+    },
+    "ai-remini.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1757904336104,
+      "lastSuccess": 1757904336104
+    },
+    "owner-gp.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1757943241791,
+      "lastSuccess": 1757943241791
+    },
+    "tools-cdn.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757876103637,
+      "lastSuccess": 1757876103637
+    },
+    "ai-ai.js": {
+      "total": 14,
+      "success": 14,
+      "last": 1757896497539,
+      "lastSuccess": 1757896497539
+    },
+    "ai-claude.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757804777259,
+      "lastSuccess": 1757804777259
+    },
+    "ai-crow.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1757805299486,
+      "lastSuccess": 0
+    },
+    "ai-plugesm.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757807264607,
+      "lastSuccess": 1757807264607
+    },
+    "ai-crows.js": {
+      "total": 5,
+      "success": 1,
+      "last": 1757807524757,
+      "lastSuccess": 1757807524757
+    },
+    "ai-deepimg.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757807712340,
+      "lastSuccess": 1757807712340
+    },
+    "ai-editimg.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1757807873564,
+      "lastSuccess": 0
+    },
+    "ai-felosearch.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757808037970,
+      "lastSuccess": 1757808037970
+    },
+    "info-gempa.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757809854145,
+      "lastSuccess": 1757809854145
+    },
+    "downloader-threads.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1757811658256,
+      "lastSuccess": 0
+    },
+    "internet-cookpad.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757811850304,
+      "lastSuccess": 1757811850304
+    },
+    "internet-freepik.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757812110591,
+      "lastSuccess": 1757812110591
+    },
+    "internet-githubtrending.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757812249028,
+      "lastSuccess": 1757812249028
+    },
+    "stalk-mcstalk.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757812401350,
+      "lastSuccess": 1757812401350
+    },
+    "info-jadwalbola.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757812889192,
+      "lastSuccess": 1757812889192
+    },
+    "internet-wikipedia.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757813052215,
+      "lastSuccess": 1757813052215
+    },
+    "sticker-qc.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757951108663,
+      "lastSuccess": 1757951108663
+    },
+    "downloader-soundcloud.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1757813511544,
+      "lastSuccess": 0
+    },
+    "anichinsc.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757814222969,
+      "lastSuccess": 1757814222969
+    },
+    "owner-checkerror.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757814947992,
+      "lastSuccess": 1757814947992
+    },
+    "tool-nikparse.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757862842636,
+      "lastSuccess": 1757862842636
+    },
+    "whatanime.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757863370089,
+      "lastSuccess": 1757863370089
+    },
+    "downloader-igstory.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757863663014,
+      "lastSuccess": 1757863663014
+    },
+    "sticker-stickersearch.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757863809082,
+      "lastSuccess": 1757863809082
+    },
+    "youtube-ytv.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1757877622543,
+      "lastSuccess": 1757877622543
+    },
+    "internet-ytpost.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1757865804542,
+      "lastSuccess": 0
+    },
+    "tool-amdata.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757865897903,
+      "lastSuccess": 1757865897903
+    },
+    "image-gimage.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757866355972,
+      "lastSuccess": 1757866355972
+    },
+    "group-getlimit.js": {
+      "total": 9,
+      "success": 7,
+      "last": 1757943954252,
+      "lastSuccess": 1757943954252
+    },
+    "owner-oaddlimitall.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757866331541,
+      "lastSuccess": 1757866331541
+    },
+    "owner-setppbot.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757866378782,
+      "lastSuccess": 1757866378782
+    },
+    "game-susunkata.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757871249201,
+      "lastSuccess": 1757871249201
+    },
+    "game-susunkata_hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757868982205,
+      "lastSuccess": 1757868982205
+    },
+    "game-angka.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757869433648,
+      "lastSuccess": 1757869433648
+    },
+    "game-asahotak.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757869469741,
+      "lastSuccess": 1757869469741
+    },
+    "game-asahotak_hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757869478653,
+      "lastSuccess": 1757869478653
+    },
+    "game-bonanza.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757869571426,
+      "lastSuccess": 1757869571426
+    },
+    "game-caklontong.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757869592460,
+      "lastSuccess": 1757869592460
+    },
+    "game-caklontong_hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757869613696,
+      "lastSuccess": 1757869613696
+    },
+    "game-family100.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757869726869,
+      "lastSuccess": 1757869726869
+    },
+    "game-lengkapikalimat.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1757870275869,
+      "lastSuccess": 1757870275869
+    },
+    "game-lengkapikalimat_hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757869821613,
+      "lastSuccess": 1757869821613
+    },
+    "game-pelabuhan.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1757870669407,
+      "lastSuccess": 1757870669407
+    },
+    "game-tebakhero.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757871155854,
+      "lastSuccess": 1757871155854
+    },
+    "game-siapakahaku.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757871213859,
+      "lastSuccess": 1757871213859
+    },
+    "game-tebakbendera.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757871282244,
+      "lastSuccess": 1757871282244
+    },
+    "game-tebakbendera_hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757871304047,
+      "lastSuccess": 1757871304047
+    },
+    "game-tebakbom.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757871361499,
+      "lastSuccess": 1757871361499
+    },
+    "game-tebakchara.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757871423246,
+      "lastSuccess": 1757871423246
+    },
+    "game-tebakchara_hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757871435001,
+      "lastSuccess": 1757871435001
+    },
+    "game-tebakgambar.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757871532795,
+      "lastSuccess": 1757871532795
+    },
+    "game-tebakgambar_hint.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757871554010,
+      "lastSuccess": 1757871554010
+    },
+    "menu-mainmenu.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1757899120012,
+      "lastSuccess": 1757899120012
+    },
+    "menu-menuai.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757876035481,
+      "lastSuccess": 1757876035481
+    },
+    "menu-menuowner.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757907439950,
+      "lastSuccess": 1757907439950
+    },
+    "menu-menugroup.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757872192623,
+      "lastSuccess": 1757872192623
+    },
+    "menu-menugame.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757872276975,
+      "lastSuccess": 1757872276975
+    },
+    "menu-menuinternet.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757872374074,
+      "lastSuccess": 1757872374074
+    },
+    "menu-menutools.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757872534223,
+      "lastSuccess": 1757872534223
+    },
+    "menu-menudownloader.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757872718495,
+      "lastSuccess": 1757872718495
+    },
+    "menu-menusticker.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757872781759,
+      "lastSuccess": 1757872781759
+    },
+    "menu-menuinfo.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757899156791,
+      "lastSuccess": 1757899156791
+    },
+    "menu-menustalk.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757872954463,
+      "lastSuccess": 1757872954463
+    },
+    "menu-menudatabase.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757873010964,
+      "lastSuccess": 1757873010964
+    },
+    "menu-menuxp.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757873105283,
+      "lastSuccess": 1757873105283
+    },
+    "menu-menuimage.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757873210520,
+      "lastSuccess": 1757873210520
+    },
+    "menu-menupremium.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757873315676,
+      "lastSuccess": 1757873315676
+    },
+    "menu-menuhost.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757873405528,
+      "lastSuccess": 1757873405528
+    },
+    "menu-menumemfess.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757873507172,
+      "lastSuccess": 1757873507172
+    },
+    "tools-removebg.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757876077908,
+      "lastSuccess": 1757876077908
+    },
+    "tool-blur.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1757876128313,
+      "lastSuccess": 0
+    },
+    "owner-addowner.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1757911447879,
+      "lastSuccess": 1757911447879
+    },
+    "ai-takina.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1757904927398,
+      "lastSuccess": 1757904927398
+    },
+    "group-link.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757943362822,
+      "lastSuccess": 1757943362822
+    },
+    "info-gcbot.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757942429781,
+      "lastSuccess": 1757942429781
+    },
+    "group-setbye.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757899625929,
+      "lastSuccess": 1757899625929
+    },
+    "info-report.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1757900253301,
+      "lastSuccess": 1757900253301
+    },
+    "group-info.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1757900472696,
+      "lastSuccess": 1757900472696
+    },
+    "internet-iqc.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757904686978,
+      "lastSuccess": 1757904686978
+    },
+    "internet-lirik.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757904823741,
+      "lastSuccess": 1757904823741
+    },
+    "owner-tagsw.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1757911462339,
+      "lastSuccess": 1757911462339
+    },
+    "downloader-gitclone.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1757906128914,
+      "lastSuccess": 1757906128914
+    },
+    "info-listblock.js.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757906461708,
+      "lastSuccess": 1757906461708
+    },
+    "owner-clearsession.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757906887044,
+      "lastSuccess": 1757906887044
+    },
+    "owner-cleartmp.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1757907040959,
+      "lastSuccess": 1757907040959
+    },
+    "internet-ttsearch.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757907305656,
+      "lastSuccess": 1757907305656
+    },
+    "host-bcgcb.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1757907523354,
+      "lastSuccess": 0
+    },
+    "main-verify.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1757912075685,
+      "lastSuccess": 0
+    },
+    "islami-tahlil.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757912146563,
+      "lastSuccess": 1757912146563
+    },
+    "tool-ssweb.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757912499845,
+      "lastSuccess": 1757912499845
+    },
+    "menu-menu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757940540737,
+      "lastSuccess": 1757940540737
+    },
+    "menu-islami.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757940573083,
+      "lastSuccess": 1757940573083
+    },
+    "menu-sticker.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1757942534424,
+      "lastSuccess": 1757942534424
+    },
+    "group-intro.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1757943062827,
+      "lastSuccess": 1757943062827
+    },
+    "sticker-bratvid.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1757951662784,
+      "lastSuccess": 1757951662784
+    }
+  },
+  "msgs": {
+    "zer?": {
+      "key": {
+        "remoteJid": "120363217994871358@g.us",
+        "fromMe": false,
+        "id": "50A3CA879EC3405CAE8333D584C8B5E7",
+        "participant": "70751650615380@lid"
+      },
+      "message": {
+        "conversation": "yes"
+      },
+      "messageTimestamp": "1757794998",
+      "broadcast": false,
+      "pushName": "End?"
+    }
+  },
+  "sticker": {},
+  "settings": {
+    "6283129667247@s.whatsapp.net": {
+      "public": true,
+      "autoread": false,
+      "anticall": true,
+      "restrict": false,
+      "backup": false
+    }
+  }
+}
